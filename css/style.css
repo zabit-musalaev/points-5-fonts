@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Bebas';
+  src: 
+  url('../fonts/BebasRegular/BebasRegular.woff') format('woff');
+  }
+
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+
+.opensans-font {
+  font-family: 'Open Sans', sans-serif;
+}
+.badscript-font {
+  font-family: 'Bad Script', cursive;
+}
+.lobster-font {
+  font-family: 'Lobster', cursive;
+}
+.bebas-font {
+  font-family: 'Bebas', cursive;
+}
